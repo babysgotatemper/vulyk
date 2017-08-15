@@ -1,0 +1,6 @@
+/node_modules/
+/dist/
+/.git/
+/.ini/
+/app/css/
+/**/Thumbs.db
